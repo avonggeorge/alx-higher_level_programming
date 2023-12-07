@@ -120,4 +120,4 @@ In this project i learnt and practiced:
 - You are not allowed to import any module# Tasks files descriptions:
 
 * [103-python.c](./103-python.c): C functions that print basic information about
-  Python lists and Python bytes objects.
+  Python lists and Python bytes objects in concise.
