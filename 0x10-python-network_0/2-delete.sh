@@ -3,4 +3,4 @@
 
 # -s = Silent mode. Don't show progress meter or error messages.
 # X = Specifies the request method - DELETE
-curl -sX DELETE "$1"
+curl -s -X DELETE "${1}"
