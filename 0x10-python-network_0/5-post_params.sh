@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/python3
 # Bash scripts that sends a POST request to a given URL.
 
 # -s = Silent mode. Don't show progress meter or error messages.

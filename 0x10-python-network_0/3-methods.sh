@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/python3
 # Display all HTTP methods the server of a given URL will accept.
 
 # -I = Retrieve only the HTTP headers(Head request)
@@ -10,3 +10,4 @@
 # 2- = Print the second field and all the following fields
 
 curl -sI "$1" | grep "Allow" | cut -d " " -f 2-
+
