@@ -11,3 +11,4 @@ with urllib.request.urlopen('https://alx-intranet.hbtn.io/status') as response:
     print("\t- type:", type(body))
     print("\t- content:", repr(body))
     print("\t- utf8 content:", body.decode())
+
