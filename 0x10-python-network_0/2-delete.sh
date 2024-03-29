@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/bin/bash
 # Deletes request passed as the first argument 
 
 if [ $# -ne 1 ]; then

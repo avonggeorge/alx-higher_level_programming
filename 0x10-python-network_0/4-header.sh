@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/bin/bash
 # Send a GET request to a given URL with a header variable.
 
 # -s = Silent mode. Don't show progress meter or error messages.

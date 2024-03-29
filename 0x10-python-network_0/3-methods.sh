@@ -1,6 +1,5 @@
-#!/usr/bin/python3
+#!/bin/bash
 # Display all HTTP methods the server of a given URL will accept.
-
 # -I = Retrieve only the HTTP headers(Head request)
 # grep "Allow" = Search for the line that contains the word "Allow"
 # cut -d " " -f 2- = Cut the line at the space character and print the second field and all the following fields.
